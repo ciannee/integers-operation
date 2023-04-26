@@ -13,7 +13,7 @@ with open("integers.txt") as my_file:
             # extract even integers
             if (num % 2 == 0):
                 # append double text file
-                
+                even = open("double.txt", "a")
                 # square all even integers
                 
             # extract odd integers

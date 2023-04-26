@@ -4,7 +4,7 @@
 
 
 # read integers text file
-
+with open("integers.txt") as my_file:
     # for each line
     
         # parse integers

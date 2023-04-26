@@ -8,8 +8,8 @@ with open("integers.txt") as my_file:
     # for each line
     for i in my_file:
         # parse integers
-         
-           
+        if i.strip:
+           num = int(i)
             # extract even integers
            
                 # append double text file

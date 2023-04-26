@@ -22,3 +22,5 @@ with open("integers.txt") as my_file:
                 # append triple text file
                 odd = open("triple.txt", "a")
                 # cube all odd integers
+                odd.write(str(num**2))
+                odd.write("\n")

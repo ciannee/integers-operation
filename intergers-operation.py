@@ -15,7 +15,8 @@ with open("integers.txt") as my_file:
                 # append double text file
                 even = open("double.txt", "a")
                 # square all even integers
-                
+                even.write(str(num**2))
+                even.write("\n")
             # extract odd integers
             
                 # append triple text file

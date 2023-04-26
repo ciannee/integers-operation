@@ -18,7 +18,7 @@ with open("integers.txt") as my_file:
                 even.write(str(num**2))
                 even.write("\n")
             # extract odd integers
-            
+            else:
                 # append triple text file
                 
                 # cube all odd integers

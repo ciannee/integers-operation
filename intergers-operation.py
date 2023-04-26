@@ -1,9 +1,23 @@
 # Name: Pineda, Patricia Anne E.
 # Section: BSCPE 1-5
-#  Assignment 4: Programming Exercise 4
+#  Assignment 4: Programming Exercise 4 (Square and Cube of Integers)
 
-# Write a method in python that will create two separate text files after 
-# reading the source text file named integers.txt that contains 20 integers. 
-# The first output file will be named double.txt containing the square of all even integers 
-# found in integers.txt and the second file will be named triple.txt containing the cube 
-# of all odd numbers found in the integers.txt.
+
+# read integers text file
+
+    # for each line
+    
+        # parse integers
+         
+           
+            # extract even integers
+           
+                # append double text file
+                
+                # square all even integers
+                
+            # extract odd integers
+            
+                # append triple text file
+                
+                # cube all odd integers

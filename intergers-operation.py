@@ -20,5 +20,5 @@ with open("integers.txt") as my_file:
             # extract odd integers
             else:
                 # append triple text file
-                
+                odd = open("triple.txt", "a")
                 # cube all odd integers

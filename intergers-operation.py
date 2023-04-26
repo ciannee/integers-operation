@@ -9,9 +9,9 @@ with open("integers.txt") as my_file:
     for i in my_file:
         # parse integers
         if i.strip:
-           num = int(i)
+            num = int(i)
             # extract even integers
-           
+            if (num % 2 == 0):
                 # append double text file
                 
                 # square all even integers
